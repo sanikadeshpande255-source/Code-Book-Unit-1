@@ -1,8 +1,8 @@
 # Unit I C++ Programming Activity
 
-**Student Name:** [aishwarya madhav chilbile]  
-**PRN:** [125UAD1126]  
-**Class/Division:** [SY-A]  
+**Student Name:** [Sanika Deshpande]  
+**PRN:** [125UAD1135]  
+**Class/Division:** [SY BTech AIDS/D]  
 **Course Name:** Object-Oriented Programming with C++  
 **Unit:** Unit I  
 
