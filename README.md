@@ -1,13 +1,20 @@
-Name:Sanika Nanasaheb Deshpande
-ZPRN:125UAD1135 Div:D
-Class:SY BTech
-Branch:Artificial Intelligence and Data science
-## Programs
-Basic Data Types – Demonstrates int, char, and float.
-if-else – Checks pass or fail using conditions.
-Loop and Array – Displays student marks using array and loop.
-Functions – Performs addition using a function.
-Class and Object – Demonstrates basic OOP concepts.
-Constructor and Destructor – Shows object initialization and cleanup.
-Static Member – Counts the number of objects created.
-Inline and Friend Function – Demonstrates inline and friend functions.
+# Unit I C++ Programming Activity
+
+**Student Name:** [aishwarya madhav chilbile]  
+**PRN:** [125UAD1126]  
+**Class/Division:** [SY-A]  
+**Course Name:** Object-Oriented Programming with C++  
+**Unit:** Unit I  
+
+## List of Programs
+
+| Sr. No. | Folder | File Name | Description |
+|---|---|---|---|
+| 1 | Program_01 | `program01.cpp` | Basic Data Types: Store student roll number, grade, and fee amount. |
+| 2 | Program_02 | `program02.cpp` | if-else: Check whether a student has passed or failed. |
+| 3 | Program_03 | `program03.cpp` | Loop and Array: Print marks of five students. |
+| 4 | Program_04 | `program04.cpp` | Functions: Create an addition function for reuse. |
+| 5 | Program_05 | `program05.cpp` | Class and Object: Store student details using class and object. |
+| 6 | Program_06 | `program06.cpp` | Constructor and Destructor: Show automatic object initialization and cleanup. |
+| 7 | Program_07 | `program07.cpp` | Static Member: Count how many objects are created. |
+| 8 | Program_08 | `program08.cpp` | Inline and Friend Function: Access private data using inline getter and friend function. |
